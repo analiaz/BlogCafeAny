@@ -77,8 +77,15 @@ img {
 }
 
 /**Header**/
-.header{
+.webp .header{
+    background-image: url(/BlogCafeAny/img/banner.webp);
+}
+
+.no-webp .header {
     background-image: url(/BlogCafeAny/img/banner.jpg);
+}
+
+.header{
     height: 60rem;
     background-size: cover; /*que tome todo el espacio la imagen*/
     background-repeat: no-repeat;

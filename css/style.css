@@ -78,11 +78,11 @@ img {
 
 /**Header**/
 .webp .header{
-    background-image: url(/BlogCafeAny/img/banner.webp);
+    background-image: url(/img/banner.webp);
 }
 
 .no-webp .header {
-    background-image: url(/BlogCafeAny/img/banner.jpg);
+    background-image: url(/img/banner.jpg);
 }
 
 .header{
